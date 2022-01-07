@@ -1,0 +1,2 @@
+# tugasni
+pemrograman cecans
